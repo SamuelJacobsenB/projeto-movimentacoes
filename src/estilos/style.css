@@ -1,0 +1,30 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    color: bisque;
+}
+
+#jogo {
+    position: relative;
+    background-color: rgb(0, 200, 0);
+    height: 400px;
+    width: 400px;
+    margin: auto;
+    margin-top: 20%;
+    border: 1px solid rgba(0, 0, 0, 0.639);
+
+}
+
+#personagem {
+    position: relative;
+    background-color: red;
+    height: 40px;
+    width: 40px;
+    left: 0;
+    top: 0;
+}
