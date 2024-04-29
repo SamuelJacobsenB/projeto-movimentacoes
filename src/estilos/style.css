@@ -12,12 +12,20 @@ body {
 #jogo {
     position: relative;
     background-color: rgb(0, 200, 0);
-    height: 400px;
-    width: 400px;
+    height: 800px;
+    width: 800px;
     margin: auto;
-    margin-top: 20%;
+    margin-top: 3%;
     border: 1px solid rgba(0, 0, 0, 0.639);
 
+}
+
+#pontuacao {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.869);
+    color: white;
+    height: 40px;
+    margin: auto;
 }
 
 #personagem {
